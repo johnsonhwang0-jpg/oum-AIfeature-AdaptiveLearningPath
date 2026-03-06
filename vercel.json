@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/AdaptiveLearningPath/:path*",
+      "destination": "/:path*"
+    }
+  ]
+}
